@@ -3,9 +3,7 @@
 <head>
   <title>Plexes SMP</title>
   <style>
-    body { font-family: Arial, sans-serif; background: #121212; color: #eee; text-align: center; padding: 50px;}
-    h1 { color: #00ff00; }
-    a { color: #00ccff; text-decoration: none; font-weight: bold; }
+
   </style>
 </head>
 <body>
